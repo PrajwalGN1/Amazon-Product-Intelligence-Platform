@@ -394,13 +394,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👨‍💻 Author
 
-**Your Name**  
-*Principal Technical Writer & Senior Data Scientist*
+**PrajwalGN**  
+**Data Scientist**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black.svg?logo=github)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green.svg?logo=web)](https://yourportfolio.com)
-📧 Email: your.email@example.com
+[![LinkedIn]](https://www.linkedin.com/in/prajwa3741a9332l-g-n-/)
+[![GitHub]](https://github.com/PrajwalGN1)
+
+📧 Email: prajwalaarya1@gmail.com
 
 ---
 <div align="center">
