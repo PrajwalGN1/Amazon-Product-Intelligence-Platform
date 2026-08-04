@@ -131,7 +131,7 @@ graph TD
     F --> H
     G --> H
     
-    H -->|Streamlit UI| I((Decision Intelligence Action))
+    H -->|Streamlit UI| I([Decision Intelligence Action])
     
     classDef default fill:#f9f9f9,stroke:#232F3E,stroke-width:2px,color:#232F3E;
     style A fill:#FF9900,color:#fff,stroke:#fff;
