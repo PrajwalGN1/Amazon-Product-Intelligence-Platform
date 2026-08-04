@@ -18,7 +18,7 @@
 ---
 
 <!-- Banner Image Placeholder -->
-![Amazon Product Intelligence Platform Dashboard Banner](docs/assets/placeholder-banner.png)
+![Amazon Product Intelligence Platform Dashboard Banner](https://via.placeholder.com/1200x400.png?text=Platform+Dashboard+Banner)
 
 </div>
 
@@ -349,9 +349,9 @@ streamlit run app/streamlit_app.py
 
 | Executive Dashboard | Product Details |
 | :---: | :---: |
-| ![Dashboard](docs/assets/placeholder-dashboard.png) | ![Product](docs/assets/placeholder-product.png) |
+| ![Dashboard](https://via.placeholder.com/600x400.png?text=Executive+Dashboard) | ![Product](https://via.placeholder.com/600x400.png?text=Product+Details) |
 | **Recommendations** | **ML Predictions** |
-| ![Recommendations](docs/assets/placeholder-recommendations.png) | ![Predictions](docs/assets/placeholder-predictions.png) |
+| ![Recommendations](https://via.placeholder.com/600x400.png?text=Recommendations) | ![Predictions](https://via.placeholder.com/600x400.png?text=ML+Predictions) |
 
 ---
 
