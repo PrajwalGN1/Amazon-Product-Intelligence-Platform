@@ -1,0 +1,15 @@
+project:
+  name: Amazon Product Intelligence Platform
+  subtitle: Enterprise Analytics, Machine Learning, Decision Intelligence and Recommendation System
+  owner: Analytics Portfolio Project
+data:
+  raw_file: data/raw/amazon.csv
+  processed_file: data/processed/amazon_products_featured.csv
+modeling:
+  random_state: 42
+  success_definition: Top quartile business priority score
+decision_principles:
+  - Every chart answers a business question.
+  - Every model supports a management action.
+  - Every recommendation includes impact, priority, and risk context.
+

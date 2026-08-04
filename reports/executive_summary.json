@@ -1,0 +1,60 @@
+{
+  "executive_kpis": {
+    "products": 1351,
+    "categories": 9,
+    "average_rating": 4.1,
+    "average_discount": 0.477,
+    "median_discounted_price": 799.0,
+    "total_review_proxy": 26766377,
+    "high_priority_products": 367
+  },
+  "schema_report": {
+    "expected_columns": [
+      "product_id",
+      "product_name",
+      "category",
+      "discounted_price",
+      "actual_price",
+      "discount_percentage",
+      "rating",
+      "rating_count",
+      "about_product",
+      "user_id",
+      "user_name",
+      "review_id",
+      "review_title",
+      "review_content",
+      "img_link",
+      "product_link"
+    ],
+    "actual_columns": [
+      "product_id",
+      "product_name",
+      "category",
+      "discounted_price",
+      "actual_price",
+      "discount_percentage",
+      "rating",
+      "rating_count",
+      "about_product",
+      "user_id",
+      "user_name",
+      "review_id",
+      "review_title",
+      "review_content",
+      "img_link",
+      "product_link"
+    ],
+    "missing_columns": [],
+    "unexpected_columns": [],
+    "schema_valid": true
+  },
+  "quality_score": 99.01,
+  "model_roc_auc": 0.9975,
+  "business_recommendations": [
+    "Prioritize promotions for products with high trust, strong review volume, and revenue upside.",
+    "Audit aggressive discounts where customer ratings remain below 4.0.",
+    "Treat low-review products as visibility experiments before committing major ad spend.",
+    "Use category scorecards to protect strong categories and diagnose underperforming ones."
+  ]
+}

@@ -1,0 +1,8 @@
+rule,failed_records,severity,business_impact
+Missing product identifiers,0,critical,Breaks product-level joins and model inference.
+Duplicate product identifiers,114,high,Can double-count product performance and distort ranking.
+Invalid ratings outside 1-5,1,high,Undermines customer satisfaction analysis.
+Negative or zero discounted prices,0,critical,Creates unusable price and value recommendations.
+Discount above 95 percent,0,medium,May indicate extreme promotion or malformed price fields.
+Missing review counts,2,medium,Reduces confidence in popularity and demand proxies.
+Missing category,0,high,Prevents category performance attribution.

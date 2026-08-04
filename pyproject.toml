@@ -1,0 +1,23 @@
+[project]
+name = "amazon-product-intelligence-platform"
+version = "0.1.0"
+description = "Enterprise analytics, machine learning, and decision intelligence for Amazon product performance optimization."
+requires-python = ">=3.10"
+dependencies = [
+  "pandas",
+  "numpy",
+  "scipy",
+  "scikit-learn",
+  "matplotlib",
+  "seaborn",
+  "plotly",
+  "streamlit",
+  "joblib",
+]
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
