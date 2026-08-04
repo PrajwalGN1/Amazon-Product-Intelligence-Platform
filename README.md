@@ -134,8 +134,9 @@ graph TD
     H -->|Streamlit UI| I((Decision Intelligence Action))
     
     classDef default fill:#f9f9f9,stroke:#232F3E,stroke-width:2px,color:#232F3E;
-    class A,I fill:#FF9900,color:#fff,stroke:#fff;
-    class H fill:#146EB4,color:#fff,stroke:#fff;
+    style A fill:#FF9900,color:#fff,stroke:#fff;
+    style I fill:#FF9900,color:#fff,stroke:#fff;
+    style H fill:#146EB4,color:#fff,stroke:#fff;
 ```
 
 ---
