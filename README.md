@@ -18,7 +18,7 @@
 ---
 
 <!-- Banner Image Placeholder -->
-![Amazon Product Intelligence Platform Dashboard Banner](https://placehold.co/1200x400/png?text=Platform+Dashboard+Banner)
+![Amazon Product Intelligence Platform Dashboard Banner](images/banner.png)
 
 </div>
 
