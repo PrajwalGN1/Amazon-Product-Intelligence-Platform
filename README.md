@@ -349,9 +349,9 @@ streamlit run app/streamlit_app.py
 
 | Executive Dashboard | Product Details |
 | :---: | :---: |
-| ![Dashboard](https://placehold.co/600x400/png?text=Executive+Dashboard) | ![Product](https://placehold.co/600x400/png?text=Product+Details) |
+| ![Dashboard](images/executive_dashboard.png) | ![Product](images/product_details.png) |
 | **Recommendations** | **ML Predictions** |
-| ![Recommendations](https://placehold.co/600x400/png?text=Recommendations) | ![Predictions](https://placehold.co/600x400/png?text=ML+Predictions) |
+| ![Recommendations](images/recommendations.png) | ![Predictions](images/ml_predictions.png) |
 
 ---
 
